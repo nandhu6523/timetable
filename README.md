@@ -4,8 +4,6 @@
 To write a html webpage page to display your timetable.
 
 
-
-
 # ALGORITHM
 ### STEP 1
 create a simple table using table tag
@@ -20,6 +18,7 @@ Add your timetable
 Execute the program
 
 # CODE
+
 '''
 <!DOCTYPE html>
 <html lang="en">
