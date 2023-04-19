@@ -120,7 +120,8 @@ Execute the program
 '''
 
 # OUTPUT
-![output](http://nandhinis.student.saveetha.in:8000/static/image/out.png?raw=true)
+
+![out](https://user-images.githubusercontent.com/123856724/233134259-ef1f8002-d545-4108-9405-57b5642349d2.png)
 
 # HTML VALIDATOR
 ![HTML VALIDATOR](http://nandhinis.student.saveetha.in:8000/static/image/valid.png?raw=true)
