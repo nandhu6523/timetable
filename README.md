@@ -120,10 +120,9 @@ Execute the program
 
 # OUTPUT
 
-![out](https://user-images.githubusercontent.com/123856724/233134259-ef1f8002-d545-4108-9405-57b5642349d2.png)
-
+![output](./out.png)
 # HTML VALIDATOR
-![HTML VALIDATOR](http://nandhinis.student.saveetha.in:8000/static/image/valid.png?raw=true)
+![HTML VALIDATOR](./valid.png)
 
 # RESULT
 The program for creating timetable is completed successfully.
