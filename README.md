@@ -119,6 +119,7 @@ Execute the program
 '''
 
 # OUTPUT
+![out](https://github.com/nandhu6523/timetable/assets/123856724/4549166c-e70f-4fdc-957e-0d4f6a778df7)
 
 ![output](./out.png)
 # HTML VALIDATOR
